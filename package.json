@@ -1,0 +1,16 @@
+{
+"name": "mc911",
+"theme": "mc911",
+"version": "3.5.3",
+"description": "mc911 ทางเข้าเว็บคาสิโนเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"mc911",
+"mc911 เครดิตฟรี",
+"mc911 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mc911",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
